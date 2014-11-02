@@ -10,7 +10,6 @@ ctx.lineTo(160, 25);
 ctx.lineTo(160, 40);
 
 //פאות
-ctx.fillStyle("#33faeb");
 ctx.moveTo(95, 40);
 ctx.lineTo(95, 85);
 ctx.moveTo(165, 40);
